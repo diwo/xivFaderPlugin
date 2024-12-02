@@ -110,6 +110,6 @@ public static unsafe class Addon {
 
     public static bool InSanctuary()
     {
-        return GameMain.IsInSanctuary();
+        return TerritoryInfo.Instance()->InSanctuary;
     }
 }
