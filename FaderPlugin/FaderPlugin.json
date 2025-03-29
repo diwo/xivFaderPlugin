@@ -6,7 +6,6 @@
   "InternalName": "faderPlugin",
   "RepoUrl": "https://github.com/shdwp/xivFaderPlugin",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 11,
   "Tags": [
     "UI"
   ],
